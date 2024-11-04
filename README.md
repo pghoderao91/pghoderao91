@@ -1,4 +1,3 @@
-
 <h1 align="center">👋 Hi, I'm Pratik Ghoderao</h1>
 <h3 align="center">Data Scientist | Machine Learning Engineer | Cloud Enthusiast</h3>
 
