@@ -64,6 +64,25 @@
 
 ---
 
+##   <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="25" />𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬: 
+| 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 |  | 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 | 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 & 𝐓𝐨𝐨𝐥𝐬 |
+|:---------|:----------:|:----------:|:-------------------|
+| Snake Classification (Venomous & Non Venomous)| Deep Learning | [view](https://github.com/pghoderao91/Snake_Classification) |`Deep Learning` `Python`|
+| RiceLeaf Disease Detector | Deep Learning   | [view](https://github.com/pghoderao91/Rice_Leaf_Disease) |`Deep Learning` `Image Classification` `Python`|
+| Predictive Analysis of Voting Result Using Machine Learning Techniques: A case study Maharashtra Assembly Election 2024| Deep Learning ,Machine learning | [view](https://github.com/pghoderao91/Predictive_Analysis_Upcoming_Election_Mahrashtra-2024) |`python`  |  
+| Employee Performance Analysis | Machine Learning   | [view](https://github.com/pghoderao91/Employee_Performance_Analysis) |`Machine Learning,Python`  |
+| Flight Price Prediction | Machine Learning  | [view](https://github.com/pghoderao91/Flight_Price_Prediction) |`Machine Learning,Python`  |
+| Insurance Cost Prediction | Machine Learning  | [view](https://github.com/pghoderao91/Insurance_Cost_Prediction) |`Machine Learning,Python`  |
+| Liver Patient Prediction | Machine Learning  | [view](https://github.com/pghoderao91/Indian_liver_Patient_Prediction) |`Machine Learning,Python`  |
+
+
+
+
+
+
+
+
+
 ## 📈  𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬:
 <div align="center">
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pghoderao91&theme=github" />
