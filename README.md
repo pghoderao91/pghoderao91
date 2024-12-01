@@ -69,7 +69,7 @@
 |:---------|:----------:|:----------:|:-------------------|
 | Snake Classification (Venomous & Non Venomous)| Deep Learning | [view](https://github.com/pghoderao91/Snake_Classification) |`Deep Learning` `Python`|
 | RiceLeaf Disease Detector | Deep Learning   | [view](https://github.com/pghoderao91/Rice_Leaf_Disease) |`Deep Learning` `Image Classification` `Python`|
-| Covid-19 Image Classification | Deep Learning   | [view]([https://github.com/pghoderao91/Rice_Leaf_Disease](https://github.com/pghoderao91/COVID-19-Detection-from-Chest-X-rays-using-CNN-VGG-Model)) |`Deep Learning` `Image Classification` `Python`|
+| Covid-19 Image Classification | Deep Learning   | [view]((https://github.com/pghoderao91/COVID-19-Detection-from-Chest-X-rays-using-CNN-VGG-Model)) |`Deep Learning` `Image Classification` `Python`|
 | Predictive Analysis of Voting Result Using Machine Learning Techniques: A case study Maharashtra Assembly Election 2024| Deep Learning ,Machine learning | [view](https://github.com/pghoderao91/Predictive_Analysis_Upcoming_Election_Mahrashtra-2024) |`Deep Learning` `Python` `Machine Learning`  |  
 | Employee Performance Analysis | Machine Learning   | [view](https://github.com/pghoderao91/Employee_Performance_Analysis) |`Machine Learning,Python`  |
 | Flight Price Prediction | Machine Learning  | [view](https://github.com/pghoderao91/Flight_Price_Prediction) |`Machine Learning,Python`  |
