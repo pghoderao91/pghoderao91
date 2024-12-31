@@ -67,6 +67,7 @@
 ##   <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="25" />𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬: 
 | 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 |  | 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 | 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 & 𝐓𝐨𝐨𝐥𝐬 |
 |:---------|:----------:|:----------:|:-------------------|
+| NLP-Driven Sentiment Analysis on Indian Politics |  Natural Language Processing | [view](https://github.com/pghoderao91/Sentiment-Analysis-of-Indian-Political-Tweets) |`Natural Language Processing,Python`  |
 | Snake Classification (Venomous & Non Venomous)| Deep Learning | [view](https://github.com/pghoderao91/Snake_Classification) |`Deep Learning` `Python`|
 | RiceLeaf Disease Detector | Deep Learning   | [view](https://github.com/pghoderao91/Rice_Leaf_Disease) |`Deep Learning` `Image Classification` `Python`|
 | Covid-19 Image Classification | Deep Learning   | [view](https://github.com/pghoderao91/COVID-19-Detection-from-Chest-X-rays-using-CNN-VGG-Model) |`Deep Learning` `Image Classification` `Python`|
